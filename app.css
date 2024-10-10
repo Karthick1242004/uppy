@@ -1,0 +1,36 @@
+/* Custom styles for Uppy Dashboard */
+/* .uppy-Dashboard { */
+/* background-color: #e9dede; Example background color */
+/* width: rem;
+  border: 1px solid #ccc;  */
+/* Example border */
+/* padding: 20px;  */
+/* Padding around the dashboard */
+/* } */
+
+/* Ensure the file list is displayed as a block, so files appear one below the other */
+/* .uppy-Dashboard-files {
+  display: block;
+  width: 100%;
+} */
+
+/* Ensure each file is displayed on its own row */
+/* .uppy-DashboardItem {
+  display: block;
+  width: 100%; /* Full width so each file appears on its own row */
+/* margin-bottom: 10px; Adds spacing between the files */
+/* } */
+/* 
+.uppy-Dashboard-inner {
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #b30b0b;
+  border: 1px solid #941616;
+  border-radius: 5px;
+  outline: none;
+} */
+
+.uppy-Dashboard-inner {
+  height: 300px !important;
+}
